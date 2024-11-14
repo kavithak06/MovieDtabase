@@ -1,0 +1,17 @@
+.controls-container {
+  display: flex;
+}
+
+.control-btn {
+  background-color: #032541;
+  color: #fff;
+  font-size: 20px;
+  font-weight: 700;
+  border-radius: 10px;
+  padding: 15px;
+}
+
+.page-no {
+  font-size: 25px;
+  margin: 10px 10px 0px 10px;
+}
